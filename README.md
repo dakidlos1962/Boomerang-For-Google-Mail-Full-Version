@@ -232,4 +232,4 @@ This repository serves as the official landing page for Boomerang for Google Mai
 **Get the most recent version of Boomerang for Google Mail today!**
 
 ---
-**Last updated:** 2026-09-08 23:54:03 UTC
+**Last updated:** 2026-09-09 03:35:24 UTC
